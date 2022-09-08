@@ -106,11 +106,11 @@ local themeStyles = {
         ElementColor = Color3.fromRGB(24, 24, 24)
     },
     Synapse = {
-        SchemeColor = Color3.fromRGB(46, 48, 43),
-        Background = Color3.fromRGB(13, 15, 12),
-        Header = Color3.fromRGB(36, 38, 35),
-        TextColor = Color3.fromRGB(152, 99, 53),
-        ElementColor = Color3.fromRGB(24, 24, 24)
+        SchemeColor = Color3.fromRGB(236, 143, 208),
+        Background = Color3.fromRGB(242, 197, 224),
+        Header = Color3.fromRGB(135, 10, 48),
+        TextColor = Color3.fromRGB(255,255,255),
+        ElementColor = Color3.fromRGB(135, 10, 48)
     },
     Serpent = {
         SchemeColor = Color3.fromRGB(0, 166, 58),
@@ -118,14 +118,7 @@ local themeStyles = {
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)		
-    },
-    Fuzzy = {
-        SchemeColor = Color3.fromRGB(236, 143, 208),
-        Background = Color3.fromRGB(242, 197, 224),
-        Header = Color3.fromRGB(135, 10, 48),
-        TextColor = Color3.fromRGB(255,255,255),
-        ElementColor = Color3.fromRGB(135, 10, 48)
-    }
+
 }
 local oldTheme = ""
 
