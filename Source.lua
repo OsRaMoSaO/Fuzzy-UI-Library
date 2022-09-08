@@ -118,6 +118,14 @@ local themeStyles = {
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
+		
+    },
+    Fuzzy = {
+        SchemeColor = Color3.fromRGB(236, 143, 208),
+        Background = Color3.fromRGB(242, 197, 224),
+        Header = Color3.fromRGB(135, 10, 48),
+        TextColor = Color3.fromRGB(255,255,255),
+        ElementColor = Color3.fromRGB(135, 10, 48)
     }
 }
 local oldTheme = ""
